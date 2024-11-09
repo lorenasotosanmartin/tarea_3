@@ -1,6 +1,6 @@
 # Ejercicio Práctico: Implementación de SASS y Framework CSS en el Sitio Web del Hospital
 ## Descripción
-El repositorio "tarea_3" contiene el código desarrollado para una página web de “Clínica Chillán”. Para el desarrollo de este proyecto se han utilizado los lenguajes **HTML**, el preprocesador **SASS** y **BootStrap** personalizado.
+El repositorio "tarea_3" contiene el código desarrollado para una página web de “Clínica Chillán”. Para el desarrollo de este proyecto se han utilizado los lenguajes **HTML**, el preprocesador **SASS** y **Bootstrap** personalizado.
 
 ### Modalización de estilos SASS
 Para la modalización de los estilos se utilizó **Sass**, utilizando características propias como mixins, declaración de variables, y anidación. para mejorar el orden y mantenibilidad los estilos se utilizó una estructura de carpetas basada en el **patrón 7-1**, implementada en la subcarpeta styles de la carpeta assets, su estructura es la siguiente: 
