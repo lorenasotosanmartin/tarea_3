@@ -47,8 +47,8 @@ Una vez cuentes con estos pases es recomendable que utilices un editor como Visu
 
 ### Créditos y recursos de terceros
 - **Bootstrap**: [sitio oficial] (https://getbootstrap.com/)
-- **Bootstrap icons**: [Sitio oficial] (https://icons.getbootstrap.com/)
-- **Sass**: [Sitio oficial] (https://sass-lang.com/)
-- **Estructura de patrón 7-1**: [Repositorio utilizado como referencia] (https://gist.github.com/rveitch/84cea9650092119527bc)
+- **Bootstrap icons**: [sitio oficial] (https://icons.getbootstrap.com/)
+- **Sass**: [sitio oficial] (https://sass-lang.com/)
+- **Estructura de patrón 7-1**: [repositorio utilizado como referencia] (https://gist.github.com/rveitch/84cea9650092119527bc)
 
   
