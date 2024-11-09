@@ -25,7 +25,7 @@ Para la creación de clases de estilos propios se utilizó una nomenclatura de n
         </nav>
 ```
 ### Integración de Bootstrap
-En este proyecto también se integró el framework Bootstrap el cual permitió añadir componentes con estilos establecidos, como footers, navs, buttons y card. sin embargo, y una de los grandes aportes de su integración es que también nos permitió la personalización de algunos estos estilos, los cuales se encuentran presente en la carpeta assets/styles/vendors/_boostrap
+En este proyecto también se integró el framework Bootstrap el cual permitió añadir componentes con estilos establecidos, como footers, navs, buttons y card y elementos de lformularios como select. sin embargo, y una de los grandes aportes de su integración es que también nos permitió la personalización de algunos estos estilos, los cuales se encuentran presente en la carpeta assets/styles/vendors/_boostrap
 
 ### Visualización del proyecto
 Para visualizar este proyecto se necesita que previamente cuentes con la instalación de:
